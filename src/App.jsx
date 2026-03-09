@@ -461,3 +461,11 @@ export default function VictoriaEventGroup() {
         .animate-blob {
           animation: blob 7s infinite;
         }
+
+        .animation-delay-2000 {
+          animation-delay: 2s;
+        }
+      `}</style>
+    </div>
+  );
+}
